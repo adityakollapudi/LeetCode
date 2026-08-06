@@ -13,6 +13,7 @@ Readme.md file
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
+| [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@ Readme.md file
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1854-maximum-population-year](https://github.com/adityakollapudi/LeetCode/tree/master/1854-maximum-population-year) |
 ## Prefix Sum
 |  |
@@ -46,4 +48,8 @@ Readme.md file
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityakollapudi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
