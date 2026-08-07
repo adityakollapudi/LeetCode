@@ -20,6 +20,7 @@ Readme.md file
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -69,4 +70,16 @@ Readme.md file
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
