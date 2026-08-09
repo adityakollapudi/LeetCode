@@ -7,6 +7,7 @@ Readme.md file
 | ------- |
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0162-find-peak-element](https://github.com/adityakollapudi/LeetCode/tree/master/0162-find-peak-element) |
 | [1854-maximum-population-year](https://github.com/adityakollapudi/LeetCode/tree/master/1854-maximum-population-year) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -98,4 +99,8 @@ Readme.md file
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/adityakollapudi/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
