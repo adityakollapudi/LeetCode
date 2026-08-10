@@ -36,6 +36,7 @@ Readme.md file
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -79,10 +80,12 @@ Readme.md file
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +93,7 @@ Readme.md file
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -98,6 +102,7 @@ Readme.md file
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
