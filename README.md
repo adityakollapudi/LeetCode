@@ -9,6 +9,7 @@ Readme.md file
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/adityakollapudi/LeetCode/tree/master/0162-find-peak-element) |
 | [1854-maximum-population-year](https://github.com/adityakollapudi/LeetCode/tree/master/1854-maximum-population-year) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -16,6 +17,7 @@ Readme.md file
 | ------- |
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
@@ -37,6 +39,7 @@ Readme.md file
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
