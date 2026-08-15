@@ -12,6 +12,7 @@ Readme.md file
 | [1854-maximum-population-year](https://github.com/adityakollapudi/LeetCode/tree/master/1854-maximum-population-year) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityakollapudi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityakollapudi/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -130,4 +131,8 @@ Readme.md file
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityakollapudi/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
