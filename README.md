@@ -75,16 +75,19 @@ Readme.md file
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
 |  |
@@ -123,4 +126,8 @@ Readme.md file
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityakollapudi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityakollapudi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
