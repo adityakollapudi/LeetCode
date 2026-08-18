@@ -16,6 +16,7 @@ Readme.md file
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityakollapudi/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/adityakollapudi/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Readme.md file
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityakollapudi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/adityakollapudi/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Stack
 |  |
 | ------- |
