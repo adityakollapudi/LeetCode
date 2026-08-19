@@ -16,15 +16,8 @@
 class Solution {
     int max=0;
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root==null){
-            return 0;
-        }
-        int lf=height(root.left);
-        int rg=height(root.right);
-        max=Math.max(max,lf+rg);
-        diameterOfBinaryTree(root.left);
-        diameterOfBinaryTree(root.right);
-
+        if(root==null)return 0;
+        height(root);
         return max;
 
     }
@@ -34,7 +27,7 @@ class Solution {
         }
         int lf=height(root.left);
         int rg=height(root.right);
-
+        max=Math.max(max,lf+rg);
         return 1+Math.max(lf,rg);
     }
 }
