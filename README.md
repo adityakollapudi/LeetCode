@@ -24,6 +24,7 @@ Readme.md file
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0525-contiguous-array](https://github.com/adityakollapudi/LeetCode/tree/master/0525-contiguous-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityakollapudi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityakollapudi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -51,6 +52,7 @@ Readme.md file
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -93,6 +95,7 @@ Readme.md file
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +109,7 @@ Readme.md file
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/adityakollapudi/LeetCode/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,6 +124,7 @@ Readme.md file
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -166,6 +171,7 @@ Readme.md file
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/adityakollapudi/LeetCode/tree/master/0207-course-schedule) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
