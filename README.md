@@ -9,6 +9,7 @@ Readme.md file
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/adityakollapudi/LeetCode/tree/master/0162-find-peak-element) |
 | [0525-contiguous-array](https://github.com/adityakollapudi/LeetCode/tree/master/0525-contiguous-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityakollapudi/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1854-maximum-population-year](https://github.com/adityakollapudi/LeetCode/tree/master/1854-maximum-population-year) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityakollapudi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -162,6 +163,7 @@ Readme.md file
 ## Sliding Window
 |  |
 | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityakollapudi/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityakollapudi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityakollapudi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
@@ -191,6 +193,7 @@ Readme.md file
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityakollapudi/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Graph Theory
 |  |
 | ------- |
