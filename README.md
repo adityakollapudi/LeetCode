@@ -73,6 +73,7 @@ Readme.md file
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/adityakollapudi/LeetCode/tree/master/0263-ugly-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityakollapudi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityakollapudi/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
