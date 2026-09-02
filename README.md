@@ -8,6 +8,7 @@ Readme.md file
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/adityakollapudi/LeetCode/tree/master/0162-find-peak-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakollapudi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/adityakollapudi/LeetCode/tree/master/0525-contiguous-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityakollapudi/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1854-maximum-population-year](https://github.com/adityakollapudi/LeetCode/tree/master/1854-maximum-population-year) |
@@ -27,6 +28,7 @@ Readme.md file
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/adityakollapudi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakollapudi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/adityakollapudi/LeetCode/tree/master/0525-contiguous-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityakollapudi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
