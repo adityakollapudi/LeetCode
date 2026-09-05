@@ -91,6 +91,7 @@ Readme.md file
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0392-is-subsequence](https://github.com/adityakollapudi/LeetCode/tree/master/0392-is-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityakollapudi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityakollapudi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
@@ -156,6 +157,7 @@ Readme.md file
 | [0141-linked-list-cycle](https://github.com/adityakollapudi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
+| [0392-is-subsequence](https://github.com/adityakollapudi/LeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Readme.md file
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/adityakollapudi/LeetCode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityakollapudi/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Graph Theory
 |  |
