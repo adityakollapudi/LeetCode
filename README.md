@@ -241,4 +241,8 @@ Readme.md file
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adityakollapudi/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Database
+|  |
+| ------- |
+| [0550-game-play-analysis-iv](https://github.com/adityakollapudi/LeetCode/tree/master/0550-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
