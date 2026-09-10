@@ -29,6 +29,7 @@ Readme.md file
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityakollapudi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/adityakollapudi/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakollapudi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/adityakollapudi/LeetCode/tree/master/0525-contiguous-array) |
@@ -81,6 +82,7 @@ Readme.md file
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/adityakollapudi/LeetCode/tree/master/0263-ugly-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityakollapudi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityakollapudi/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -159,6 +161,7 @@ Readme.md file
 | [0141-linked-list-cycle](https://github.com/adityakollapudi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/adityakollapudi/LeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
@@ -239,6 +242,7 @@ Readme.md file
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityakollapudi/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
