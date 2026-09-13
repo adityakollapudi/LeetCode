@@ -250,6 +250,7 @@ Readme.md file
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/adityakollapudi/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/adityakollapudi/LeetCode/tree/master/0550-game-play-analysis-iv) |
 ## Design
 |  |
