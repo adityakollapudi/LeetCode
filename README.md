@@ -82,6 +82,7 @@ Readme.md file
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityakollapudi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/adityakollapudi/LeetCode/tree/master/0263-ugly-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityakollapudi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -151,6 +152,7 @@ Readme.md file
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityakollapudi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityakollapudi/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/adityakollapudi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
@@ -166,6 +168,7 @@ Readme.md file
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityakollapudi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
