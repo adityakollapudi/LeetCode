@@ -9,6 +9,7 @@ Readme.md file
 | [0073-set-matrix-zeroes](https://github.com/adityakollapudi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/adityakollapudi/LeetCode/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/adityakollapudi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakollapudi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/adityakollapudi/LeetCode/tree/master/0525-contiguous-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityakollapudi/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -30,6 +31,7 @@ Readme.md file
 | [0073-set-matrix-zeroes](https://github.com/adityakollapudi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/adityakollapudi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/adityakollapudi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakollapudi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/adityakollapudi/LeetCode/tree/master/0525-contiguous-array) |
@@ -64,12 +66,14 @@ Readme.md file
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/adityakollapudi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityakollapudi/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/adityakollapudi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1854-maximum-population-year](https://github.com/adityakollapudi/LeetCode/tree/master/1854-maximum-population-year) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -259,4 +263,8 @@ Readme.md file
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/adityakollapudi/LeetCode/tree/master/0155-min-stack) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/adityakollapudi/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
