@@ -10,6 +10,7 @@ Readme.md file
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/adityakollapudi/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/adityakollapudi/LeetCode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/adityakollapudi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakollapudi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ Readme.md file
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityakollapudi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/adityakollapudi/LeetCode/tree/master/0263-ugly-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityakollapudi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityakollapudi/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -100,6 +102,7 @@ Readme.md file
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityakollapudi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
@@ -273,4 +276,20 @@ Readme.md file
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/adityakollapudi/LeetCode/tree/master/0229-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
