@@ -31,6 +31,7 @@ Readme.md file
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/adityakollapudi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/adityakollapudi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/adityakollapudi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
@@ -93,6 +94,7 @@ Readme.md file
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityakollapudi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/adityakollapudi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/adityakollapudi/LeetCode/tree/master/0263-ugly-number) |
@@ -107,6 +109,7 @@ Readme.md file
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/adityakollapudi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/adityakollapudi/LeetCode/tree/master/0392-is-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityakollapudi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
