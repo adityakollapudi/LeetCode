@@ -110,6 +110,7 @@ Readme.md file
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityakollapudi/LeetCode/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/adityakollapudi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/adityakollapudi/LeetCode/tree/master/0392-is-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityakollapudi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
