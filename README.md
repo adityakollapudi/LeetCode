@@ -52,6 +52,7 @@ Readme.md file
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityakollapudi/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -110,6 +111,7 @@ Readme.md file
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityakollapudi/LeetCode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/adityakollapudi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/adityakollapudi/LeetCode/tree/master/0392-is-subsequence) |
@@ -298,4 +300,8 @@ Readme.md file
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
