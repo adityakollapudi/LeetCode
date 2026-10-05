@@ -61,6 +61,7 @@ Readme.md file
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakollapudi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/adityakollapudi/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Readme.md file
 | [0058-length-of-last-word](https://github.com/adityakollapudi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/adityakollapudi/LeetCode/tree/master/0392-is-subsequence) |
+| [0856-score-of-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0856-score-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityakollapudi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityakollapudi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
@@ -304,4 +306,5 @@ Readme.md file
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
