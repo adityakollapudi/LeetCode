@@ -62,6 +62,7 @@ Readme.md file
 | [0155-min-stack](https://github.com/adityakollapudi/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityakollapudi/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Readme.md file
 | [0299-bulls-and-cows](https://github.com/adityakollapudi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/adityakollapudi/LeetCode/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityakollapudi/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityakollapudi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityakollapudi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
@@ -261,6 +263,7 @@ Readme.md file
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityakollapudi/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityakollapudi/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -307,4 +310,5 @@ Readme.md file
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/adityakollapudi/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityakollapudi/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
