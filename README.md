@@ -98,6 +98,7 @@ Readme.md file
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityakollapudi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adityakollapudi/LeetCode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/adityakollapudi/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/adityakollapudi/LeetCode/tree/master/0263-ugly-number) |
@@ -212,6 +213,7 @@ Readme.md file
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/adityakollapudi/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/adityakollapudi/LeetCode/tree/master/0162-find-peak-element) |
 ## Sliding Window
 |  |
@@ -322,4 +324,8 @@ Readme.md file
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adityakollapudi/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
