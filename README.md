@@ -99,6 +99,7 @@ Readme.md file
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityakollapudi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adityakollapudi/LeetCode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/adityakollapudi/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/adityakollapudi/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/adityakollapudi/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
@@ -197,6 +198,7 @@ Readme.md file
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityakollapudi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/adityakollapudi/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
