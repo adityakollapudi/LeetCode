@@ -18,6 +18,7 @@ Readme.md file
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityakollapudi/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1854-maximum-population-year](https://github.com/adityakollapudi/LeetCode/tree/master/1854-maximum-population-year) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityakollapudi/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityakollapudi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityakollapudi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityakollapudi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -111,6 +112,7 @@ Readme.md file
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adityakollapudi/LeetCode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityakollapudi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityakollapudi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
