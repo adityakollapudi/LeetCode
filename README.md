@@ -19,6 +19,7 @@ Readme.md file
 | [1854-maximum-population-year](https://github.com/adityakollapudi/LeetCode/tree/master/1854-maximum-population-year) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityakollapudi/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityakollapudi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakollapudi/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityakollapudi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityakollapudi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -42,6 +43,7 @@ Readme.md file
 | [0496-next-greater-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/adityakollapudi/LeetCode/tree/master/0525-contiguous-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityakollapudi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakollapudi/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityakollapudi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityakollapudi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityakollapudi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -213,6 +215,7 @@ Readme.md file
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakollapudi/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityakollapudi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -346,4 +349,8 @@ Readme.md file
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/adityakollapudi/LeetCode/tree/master/0278-first-bad-version) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakollapudi/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
