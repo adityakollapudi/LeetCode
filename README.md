@@ -6,6 +6,7 @@ Readme.md file
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityakollapudi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/adityakollapudi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/adityakollapudi/LeetCode/tree/master/0136-single-number) |
@@ -196,6 +197,7 @@ Readme.md file
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityakollapudi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/adityakollapudi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/adityakollapudi/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/adityakollapudi/LeetCode/tree/master/0148-sort-list) |
