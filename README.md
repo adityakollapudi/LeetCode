@@ -7,6 +7,7 @@ Readme.md file
 | ------- |
 | [0001-two-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakollapudi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityakollapudi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityakollapudi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/adityakollapudi/LeetCode/tree/master/0136-single-number) |
@@ -355,4 +356,8 @@ Readme.md file
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakollapudi/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/adityakollapudi/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
